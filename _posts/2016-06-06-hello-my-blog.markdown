@@ -1,14 +1,16 @@
 ---
 layout:     post
 title:      "Welcome to Tony's Blog"
-subtitle:   " \"20 Hours, Hello Blog\""
-date:       2016-06-06 09:52:00
+subtitle:   "20 Hours, Hello Blog"
+date:       2016-06-06
 author:     "Tony"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-js-module.jpg"
 tags:
     - 生活
-    - git
+    - 前端
 ---
+
+
 
 > “Here we go! ”
 
@@ -23,7 +25,7 @@ Tony 的 Blog 就这么开通了。
 
 作为一个懂前（ma）端（nong）的交互设计师， 天天在简书上写东西，没意思。虽说简书真的是个写作的好地方，但不是自己的空间，总是没那么惬意。紧张的期末，突发奇想，决定自己搭建一个blog。
 
-在这个只造浪不造塔的时代，一点自媒体的观念都没有是不行滴，基础的运营观念，好的平台和人脉都是不可或缺的，这个小小的blog只是tony的第一步。
+在这个只造浪不造塔的时代，一点自媒体的观念都没有是不行滴，基础的运营观念，好的平台和人脉都是不可或缺的，这个小小的blog只是Tony的第一步。
 
 我们需要花费10000个小时才能在一个地方精通，但是这个blog玩到现在用了多长时间呢？答案是不到20个小时。其实Tony是想告诉你，**这个世界充满了太多的新奇等着我们去发现，很多事情想体验的话，真的[只要20个小时](http://www.bilibili.com/video/av2884790/),看看这个给了Tony不少勇气的ted视频吧~**
 
